@@ -2,7 +2,7 @@
   "name": "back-end-project-week",
   "version": "1.0.0",
   "engines": {
-    "node": "8.9.1"
+    "node": "9.3.0"
   },
   "description": "\"The Lambda-Notes Server\"",
   "main": "index.js",
